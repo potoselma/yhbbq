@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yellow House BBQ</title>
-    <link>http://localhost:40797/</link>
+    <link>http://localhost:36985/</link>
     <description>Recent content on Yellow House BBQ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Mar 2026 18:15:48 -0500</lastBuildDate>
-    <atom:link href="http://localhost:40797/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36985/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menu</title>
-      <link>http://localhost:40797/menu/</link>
+      <link>http://localhost:36985/menu/</link>
       <pubDate>Mon, 02 Mar 2026 18:15:48 -0500</pubDate>
-      <guid>http://localhost:40797/menu/</guid>
+      <guid>http://localhost:36985/menu/</guid>
       <description>&lt;h1 id=&#34;catering-menu&#34;&gt;Catering Menu&lt;/h1&gt;&#xA;&lt;p&gt;YHBBQ Menu&lt;/p&gt;&#xA;&lt;h2 id=&#34;featured-cuts&#34;&gt;Featured Cuts&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Featured Cuts&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Brisket&lt;/p&gt;&#xA;&lt;p&gt;Pork Butt / Pork Shoulder&lt;/p&gt;&#xA;&lt;p&gt;Pork Ribs&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:40797/about/</link>
+      <link>http://localhost:36985/about/</link>
       <pubDate>Mon, 02 Mar 2026 17:51:14 -0500</pubDate>
-      <guid>http://localhost:40797/about/</guid>
-      <description>&lt;p&gt;Welcome to Yellow House BBQ - where the magic happens.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;IMG_2261.JPEG&#34; alt=&#34;Brisket&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;our-story&#34;&gt;Our Story&lt;/h1&gt;&#xA;&lt;p&gt;The love for smoke and fire started early — standing beside my Dad at the Weber kettle grill, learning that great BBQ isn&amp;rsquo;t just food, it&amp;rsquo;s a feeling. Those backyard memories never left, and in 2022, what had always been a passion became a purpose: Yellow House BBQ was born. Today, every cook centers around the Big Green Egg, paired with hand-sourced woods from a Colorado farm — peach, pecan, apple, cherry, and post oak — each variety chosen to give the BBQ of the day exactly the right depth of smoke and character. Whether it&amp;rsquo;s a backyard patio gathering or a celebration for a crowd, Yellow House BBQ is about serving up honest, soul-satisfying BBQ for any occasion. We&amp;rsquo;re also proud to give back — as an active contributor to a local food kitchen, we believe great food should reach everyone, especially those in our community who need it most.&lt;/p&gt;</description>
+      <guid>http://localhost:36985/about/</guid>
+      <description>&lt;p&gt;Welcome to Yellow House BBQ - where the magic happens.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;IMG_2261.JPEG&#34; alt=&#34;Brisket&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;our-story&#34;&gt;Our Story&lt;/h1&gt;&#xA;&lt;p&gt;The love for smoke and fire started early — standing beside my Dad at the Weber kettle grill, learning that great BBQ isn&amp;rsquo;t just food, it&amp;rsquo;s a feeling. Those backyard memories never left, and in 2022, what had always been a passion became a purpose: Yellow House BBQ was born.&lt;/p&gt;&#xA;&lt;p&gt;Today, every cook centers around the Big Green Egg, paired with hand-sourced woods from a Colorado farm — featuring majority peachwood, with touches of pecan, apple, cherry, and even post oak for a traditional Texas style brisket — each variety chosen to give the BBQ of the day exactly the right depth of smoke and character. Whether it&amp;rsquo;s a backyard patio gathering or a celebration for a crowd, Yellow House BBQ is about serving up honest, soul-satisfying BBQ for any occasion.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
