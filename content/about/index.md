@@ -4,7 +4,7 @@ date = 2026-03-02T17:51:14-05:00
 draft = false
 +++
 
-Welcome to Yellow House BBQ - where the magic happens.
+**Welcome to Yellow House BBQ - where the magic happens.**
 
 ![Brisket](IMG_2261.JPEG)
 
