@@ -1,9 +1,10 @@
 +++
-title = 'About'
+title = "About Us"
 date = 2026-03-02T17:51:14-05:00
 draft = false
-weight = 2
+weight = 3
 header_menu = true
+header_menu_title = "About"
 +++
 
 #**Welcome to Yellow House BBQ - we're glad you are here.**#
