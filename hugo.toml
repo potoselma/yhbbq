@@ -2,6 +2,7 @@ baseURL = 'https://yhbbq.com/'
 languageCode = 'en-us'
 title = 'Yellow House BBQ'
 theme = 'hugo-scroll'
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
