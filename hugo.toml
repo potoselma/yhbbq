@@ -2,8 +2,20 @@ baseURL = 'https://yhbbq.com/'
 languageCode = 'en-us'
 title = 'Yellow House BBQ'
 theme = 'hugo-scroll'
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+enableEmoji = true
+
+[params]
+  description = "Yellow House BBQ"
+  copyright = "© Yellow House BBQ"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[languages]
+  [languages.en]
+    weight = 10
+    languageName = "English"
+    contentDir = "content/en"

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:36837/homepage/01-hero/</loc>
+  </url><url>
+    <loc>http://localhost:36837/homepage/02-about/</loc>
+    <lastmod>2026-03-02T17:51:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36837/</loc>
+    <lastmod>2026-03-02T18:15:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36837/homepage/03-menu/</loc>
+    <lastmod>2026-03-02T18:15:48-05:00</lastmod>
+  </url>
+</urlset>
