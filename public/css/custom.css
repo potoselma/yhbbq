@@ -192,3 +192,86 @@ article#menu section.post-content {
     flex-direction: column !important;
   }
 }
+
+/* ── SWAG SECTION ── */
+article#swag.post {
+  width: 100% !important;
+  max-width: 100% !important;
+  background-color: #2D5A27 !important;
+}
+
+article#swag .post-header {
+  text-align: center !important;
+}
+
+article#swag .post-header h2 {
+  font-size: 3em !important;
+  color: #FFD700 !important;
+}
+
+article#swag section.post-content {
+  max-width: 900px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: 0 2em 2em 2em !important;
+}
+
+.swag-grid {
+  display: flex !important;
+  justify-content: center !important;
+  gap: 2em !important;
+  width: 100% !important;
+  padding: 1em 0 !important;
+}
+
+.swag-item {
+  flex: 1 !important;
+  text-align: center !important;
+  padding: 1.5em !important;
+  border: 1px solid #FFD700 !important;
+  border-radius: 8px !important;
+}
+
+.swag-item img {
+  width: 100% !important;
+  height: 300px !important;
+  object-fit: cover !important;
+  border-radius: 4px !important;
+  margin-bottom: 1em !important;
+}
+
+.swag-item h3 {
+  color: #FFD700 !important;
+  font-size: 1.6em !important;
+}
+
+@media (max-width: 768px) {
+  .swag-grid {
+    flex-direction: column !important;
+  }
+}
+
+/* Wider swag section */
+article#swag section.post-content {
+  max-width: 1080px !important;
+}
+
+.swag-item img {
+  height: 360px !important;
+}
+
+/* Show full image without cropping */
+.swag-item img {
+  object-fit: contain !important;
+  background-color: white !important;
+}
+
+/* Match Swag title size to Menu title */
+article#swag .post-header h2 {
+  font-size: 3em !important;
+}
+
+/* Match Swag title size to Contact */
+article#swag .post-header h2 {
+  font-size: 2em !important;
+}
