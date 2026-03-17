@@ -275,3 +275,12 @@ article#swag .post-header h2 {
 article#swag .post-header h2 {
   font-size: 2em !important;
 }
+
+/* Smaller swag images */
+article#swag section.post-content {
+  max-width: 700px !important;
+}
+
+.swag-item img {
+  height: 200px !important;
+}
